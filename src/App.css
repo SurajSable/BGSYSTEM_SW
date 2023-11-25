@@ -1,0 +1,8 @@
+.background {
+  background-image: url('https://static.wixstatic.com/media/0e5bdd_8f377927d33449b4a8bc79d1f2108eb8~mv2.png/v1/fill/w_980,h_624,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/0e5bdd_8f377927d33449b4a8bc79d1f2108eb8~mv2.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  background-attachment: fixed;
+  
+}
